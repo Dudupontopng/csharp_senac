@@ -1,0 +1,16 @@
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\bin\Debug\net8.0-windows\calculadora_csharp.exe
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\bin\Debug\net8.0-windows\calculadora_csharp.deps.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\bin\Debug\net8.0-windows\calculadora_csharp.runtimeconfig.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\bin\Debug\net8.0-windows\calculadora_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\bin\Debug\net8.0-windows\calculadora_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.Form1.resources
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.csproj.GenerateResource.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.AssemblyInfo.cs
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\refint\calculadora_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\calculadora_csharp.genruntimeconfig.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\calculadora_csharp\obj\Debug\net8.0-windows\ref\calculadora_csharp.dll

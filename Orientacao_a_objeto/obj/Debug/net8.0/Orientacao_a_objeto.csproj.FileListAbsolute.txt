@@ -1,0 +1,14 @@
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\bin\Debug\net8.0\Orientacao_a_objeto.exe
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\bin\Debug\net8.0\Orientacao_a_objeto.deps.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\bin\Debug\net8.0\Orientacao_a_objeto.runtimeconfig.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\bin\Debug\net8.0\Orientacao_a_objeto.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\bin\Debug\net8.0\Orientacao_a_objeto.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.AssemblyInfo.cs
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\refint\Orientacao_a_objeto.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.genruntimeconfig.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\ref\Orientacao_a_objeto.dll

@@ -1,0 +1,16 @@
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\bin\Debug\net8.0-windows\sistema_login_csharp.exe
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\bin\Debug\net8.0-windows\sistema_login_csharp.deps.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\bin\Debug\net8.0-windows\sistema_login_csharp.runtimeconfig.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\bin\Debug\net8.0-windows\sistema_login_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\bin\Debug\net8.0-windows\sistema_login_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.Form1.resources
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.csproj.GenerateResource.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.AssemblyInfo.cs
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\refint\sistema_login_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\sistema_login_csharp.genruntimeconfig.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\sistema_login_csharp\obj\Debug\net8.0-windows\ref\sistema_login_csharp.dll

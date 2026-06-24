@@ -1,0 +1,14 @@
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\bin\Debug\net8.0\Projeto_C#.exe
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\bin\Debug\net8.0\Projeto_C#.deps.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\bin\Debug\net8.0\Projeto_C#.runtimeconfig.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\bin\Debug\net8.0\Projeto_C#.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\bin\Debug\net8.0\Projeto_C#.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\Projeto_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\Projeto_C#.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\Projeto_C#.AssemblyInfo.cs
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\Projeto_C#.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\Projeto_C#.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\refint\Projeto_C#.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\Projeto_C#.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\Projeto_C#.genruntimeconfig.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_C#\obj\Debug\net8.0\ref\Projeto_C#.dll

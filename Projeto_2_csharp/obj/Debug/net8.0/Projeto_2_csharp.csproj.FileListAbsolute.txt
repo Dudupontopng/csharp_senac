@@ -1,0 +1,14 @@
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\bin\Debug\net8.0\Projeto_2_csharp.exe
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\bin\Debug\net8.0\Projeto_2_csharp.deps.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\bin\Debug\net8.0\Projeto_2_csharp.runtimeconfig.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\bin\Debug\net8.0\Projeto_2_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\bin\Debug\net8.0\Projeto_2_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\Projeto_2_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\Projeto_2_csharp.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\Projeto_2_csharp.AssemblyInfo.cs
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\Projeto_2_csharp.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\Projeto_2_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\refint\Projeto_2_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\Projeto_2_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\Projeto_2_csharp.genruntimeconfig.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Projeto_2_csharp\obj\Debug\net8.0\ref\Projeto_2_csharp.dll
