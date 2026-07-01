@@ -6,35 +6,39 @@ using System.Threading.Tasks;
 
 namespace Orientacao_a_objeto
 {
-    public class Cachorro
+    public class Cachorro : Animal
     {
 
         public Cachorro(
             string Nome,
             string Raca,
-            DateTime DataDeNascimento
+            DateTime DataDeNascimento,
+            bool Adestrado,
+            bool IsVacinado
             ) {
-            this.Nome = Nome;
-            this.Raca = Raca;
-            this.DataDeNascimento = DataDeNascimento;
+            Nome = Nome;
+            Raca = Raca;
+            DataDeNascimento = DataDeNascimento;
+            Adestrado = Adestrado;
+            IsVacinado = IsVacinado;
         }
-        public string Nome { get; private set; }
+      
 
         public string Raca { get; private set; }
 
-        public double Altura { get; set; }
+       
 
-        public double Peso { get; set; }
+     
 
-        public DateTime DataDeNascimento { get; private set; }
+        
 
         public bool Adestrado { get; set; }
 
         public bool IsVacinado { get; set; }
 
-        public bool IsAtivo { get; set; }
+       
 
-        public void SeComunicar()
+        public override void SeComunicar()
         {
             Console.WriteLine($"Au au");
         }

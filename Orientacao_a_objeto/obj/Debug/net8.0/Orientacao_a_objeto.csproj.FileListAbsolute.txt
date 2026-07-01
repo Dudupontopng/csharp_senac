@@ -12,3 +12,4 @@ C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debu
 C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.pdb
 C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.genruntimeconfig.cache
 C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\ref\Orientacao_a_objeto.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Orientacao_a_objeto\obj\Debug\net8.0\Orientacao_a_objeto.sourcelink.json

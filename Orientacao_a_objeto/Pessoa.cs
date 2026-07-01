@@ -6,27 +6,22 @@ using System.Threading.Tasks;
 
 namespace Orientacao_a_objeto
 {
-    public class Pessoa
+    public class Pessoa : Animal
     {
         public Pessoa(
             string Nome, 
-            DateTime Data_nascimento, 
+            DateTime DataDeNascimento,
             double Altura, 
             string Cpf, 
-            bool is_Ativo)
+            bool IsAtivo)
         {
             this.Nome = Nome;
-            this.Data_nascimento = Data_nascimento;
+            DataDeNascimento = DataDeNascimento;
             this.Cpf = Cpf;
             this.Altura = Altura;
-            this.Is_ativo = is_Ativo;
+            this.IsAtivo = IsAtivo;
 
         }
-        public string Nome{ get; private set; }
-
-        public DateTime Data_nascimento { get; private set; }
-
-        public double Altura { get; set; }
 
         public string Cpf { get; private set; }
 
@@ -36,9 +31,9 @@ namespace Orientacao_a_objeto
 
         public string Email { get; set; }
 
-        public bool Is_ativo { get; set; }
+       
 
-        public void SeComunicar()
+        public override void SeComunicar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome}");
         }

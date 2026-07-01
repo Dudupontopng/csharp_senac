@@ -1,0 +1,15 @@
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\bin\Debug\net8.0\exercicio_parimpar_csharp.exe
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\bin\Debug\net8.0\exercicio_parimpar_csharp.deps.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\bin\Debug\net8.0\exercicio_parimpar_csharp.runtimeconfig.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\bin\Debug\net8.0\exercicio_parimpar_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\bin\Debug\net8.0\exercicio_parimpar_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.AssemblyInfo.cs
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.sourcelink.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\refint\exercicio_parimpar_csharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\exercicio_parimpar_csharp.genruntimeconfig.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\exercicio_parimpar_csharp\obj\Debug\net8.0\ref\exercicio_parimpar_csharp.dll

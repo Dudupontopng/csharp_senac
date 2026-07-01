@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\exercicio_parimpar_csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{467CA5F1-BF67-4DB6-B012-1E36ABE11DFD}|exercicio_parimpar_csharp.csproj|c:\\users\\eduardofingerbohn\\desktop\\projeto_c#_senac\\exercicio_parimpar_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467CA5F1-BF67-4DB6-B012-1E36ABE11DFD}|exercicio_parimpar_csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\exercicio_parimpar_csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\exercicio_parimpar_csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T00:17:50.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

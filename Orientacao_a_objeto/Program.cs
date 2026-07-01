@@ -17,11 +17,11 @@
 
             Console.WriteLine("Informações da pessoa");
             Console.WriteLine($"Nome {Pessoa1.Nome}");
-            Console.WriteLine($"Data de nascimento {Pessoa1.Data_nascimento}");
+            Console.WriteLine($"Data de nascimento {Pessoa1.DataDeNascimento}");
             Console.WriteLine($"Altura {Pessoa1.Altura}");
             Console.WriteLine($"Telefone {Pessoa1.Telefone}");
             Console.WriteLine($"Cpf {Pessoa1.Cpf}");
-            Console.WriteLine($"Esta ativo {Pessoa1.Is_ativo}");
+            Console.WriteLine($"Esta ativo {Pessoa1.IsAtivo}");
 
           
             Console.WriteLine($"Novo nome pessoa 1: {Pessoa1.Nome}");
@@ -41,11 +41,11 @@
 
             Console.WriteLine("Informações da pessoa");
             Console.WriteLine($"Nome {pessoa2.Nome}");
-            Console.WriteLine($"Data de nascimento {pessoa2.Data_nascimento}");
+            Console.WriteLine($"Data de nascimento {pessoa2.DataDeNascimento}");
             Console.WriteLine($"Altura {pessoa2.Altura}");
             Console.WriteLine($"Telefone {pessoa2.Telefone}");
             Console.WriteLine($"Cpf {pessoa2.Cpf}");
-            Console.WriteLine($"Esta ativo {pessoa2.Is_ativo}");
+            Console.WriteLine($"Esta ativo {pessoa2.IsAtivo}");
             Console.WriteLine("");
 
 
@@ -62,6 +62,16 @@
             var pedido2 = new Pedido(pessoa2, DateTime.Now, 199.90, "Sem observação");
 
 
+
+            Animal pessoa9 = new Pessoa("Eduardo", DateTime.Now, 175, "cpf", true);
+            Animal cachorro9 = new Cachorro("Juju", "Poddle", DateTime.Now, true, true);
+
+            var lista = new List<Animal> { pessoa9, cachorro9 };
+
+            foreach (var animal in lista)
+            {
+                animal.SeComunicar();
+            }
 
         }
     }

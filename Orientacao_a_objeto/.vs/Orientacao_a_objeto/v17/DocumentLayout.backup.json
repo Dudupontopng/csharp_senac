@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|c:\\users\\eduardofingerbohn\\desktop\\projeto_c#_senac\\orientacao_a_objeto\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|c:\\users\\eduardofingerbohn\\desktop\\projeto_c#_senac\\orientacao_a_objeto\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|solutionrelative:cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|c:\\users\\eduardofingerbohn\\desktop\\projeto_c#_senac\\orientacao_a_objeto\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|c:\\users\\eduardofingerbohn\\desktop\\projeto_c#_senac\\orientacao_a_objeto\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|c:\\users\\eduardofingerbohn\\desktop\\projeto_c#_senac\\orientacao_a_objeto\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420105B-58E9-4C70-B861-4135E605FDD5}|Orientacao_a_objeto.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T23:22:15.827Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Cachorro.cs",
               "DocumentMoniker": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Cachorro.cs",
               "RelativeDocumentMoniker": "Cachorro.cs",
               "ToolTip": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Cachorro.cs",
               "RelativeToolTip": "Cachorro.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T00:14:19.248Z",
               "EditorCaption": ""
@@ -49,20 +67,20 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAmwD0AAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAtwEgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T23:02:41.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Pedido.cs",
               "RelativeDocumentMoniker": "Pedido.cs",
               "ToolTip": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Pedido.cs",
               "RelativeToolTip": "Pedido.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-15T22:37:58.106Z",
               "EditorCaption": ""
@@ -75,7 +93,7 @@
               "RelativeDocumentMoniker": "Pessoa.cs",
               "ToolTip": "C:\\Users\\EDUARDOFINGERBOHN\\Desktop\\Projeto_C#_senac\\Orientacao_a_objeto\\Pessoa.cs",
               "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA6wCMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T23:27:47.741Z",
               "EditorCaption": ""
