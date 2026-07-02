@@ -1,0 +1,15 @@
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.AssemblyInfo.cs
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.sourcelink.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\bin\Debug\net8.0\Cadastro_alunoscsharp.exe
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\bin\Debug\net8.0\Cadastro_alunoscsharp.deps.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\bin\Debug\net8.0\Cadastro_alunoscsharp.runtimeconfig.json
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\bin\Debug\net8.0\Cadastro_alunoscsharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\bin\Debug\net8.0\Cadastro_alunoscsharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\refint\Cadastro_alunoscsharp.dll
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.pdb
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\Cadastro_alunoscsharp.genruntimeconfig.cache
+C:\Users\EDUARDOFINGERBOHN\Desktop\Projeto_C#_senac\Cadastro_alunoscsharp\obj\Debug\net8.0\ref\Cadastro_alunoscsharp.dll
